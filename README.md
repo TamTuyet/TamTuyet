@@ -1,5 +1,3 @@
-# GitHub Profile README Template — Nguyen Thai An
-
 # Nguyen Thai An
 
 **Senior AI / Software Engineer**  
