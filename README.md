@@ -1,5 +1,3 @@
-# GitHub Profile README Template — Nguyen Thai An
-
 # Nguyen Thai An
 
 **Senior AI / Software Engineer**  
@@ -11,9 +9,11 @@ I am a senior software engineer and architect with 15+ years of experience build
 
 ### Cô Tấm AI — Production-Oriented Bounded Agentic RAG Core
 
-A reusable local-first AI core deployed as isolated tenant runtimes, with SQL-first factual grounding, vector RAG fallback, persistent conversation/business state, contextual entity resolution, deterministic side-effect safety, selectable local model tiers, and asynchronous messaging reliability primitives.
+An independently developed, early-stage commercial AI product built as a reusable local-first core and deployed as isolated tenant runtimes. The system combines SQL-first factual grounding, vector RAG fallback, persistent conversation/business state, contextual entity resolution, deterministic side-effect safety, selectable local model tiers, and asynchronous messaging reliability primitives.
 
-→ **Architecture & technical portfolio:** `https://github.com/TamTuyet/cotamai-portfolio`
+**[Architecture & technical portfolio →](https://github.com/TamTuyet/cotamai-portfolio)**
+
+> Production source is private while the product remains under active development. A source-code walkthrough can be provided during a technical interview upon request.
 
 ## Core areas
 
